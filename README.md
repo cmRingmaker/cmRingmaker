@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ringmaker</h1>
 <h3 align="center">A fullstack developer from Michigan.</h3>
 
-- 🔭 I’m currently working on **expanding my skills.**
+- 🔭 I’m currently working on **mastering React.**
 
 - 🌱 I’m currently learning **a better understanding of backend.**
 
