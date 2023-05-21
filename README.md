@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chrisringmaker@gmail.com**
 
-- ⚡ Fun fact **I started my foray into web development on myspace where my disaster of a theme actually got some appraisal from a handful of people, despite it being mostly images because I thought divs were too frustrating at the time.**
+- ⚡ Fun fact **I started my foray into web development on myspace where my disaster of a theme actually got some praise from a handful of people, despite it being mostly images because I thought divs were too frustrating at the time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
