@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mastering React.**
 
-- 🌱 I’m currently learning **a better understanding of backend.**
+- 🌱 I’m currently learning **a better understanding of CMS**
 
 - 👯 I’m looking to collaborate on **making the web a better place!**
 
