@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mastering React.**
 
-- 🌱 I’m currently learning **the new features in Next.js 13!**
+- 🌱 I’m currently learning **HTMX!**
 
 - 👯 I’m looking to collaborate on **making the web a better place!**
 
