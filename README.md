@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mastering React.**
 
-- 🌱 I’m currently learning **HTMX!**
+- 🌱 I’m currently learning **NIX & NixOS**
 
 - 👯 I’m looking to collaborate on **making the web a better place!**
 
